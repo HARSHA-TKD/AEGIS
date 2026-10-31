@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700 !important;
+}
+
+.page-head h1 {
+  font-size: clamp(2.1rem, 3vw, 2.85rem);
+  font-weight: 750 !important;
+  letter-spacing: -0.045em;
+}
+
+.card h2,
+.card-head h2 {
+  font-size: 20px;
+  line-height: 1.22;
+}
+
+.brand-name {
+  font-weight: 800;
+}
+
+strong,
+b {
+  font-weight: 700;
+}
